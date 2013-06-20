@@ -1,7 +1,7 @@
 enum
 ====
 
-A fork of the robust enum 0.4.4 package by Ben Finney
+A fork of the robust [enum 0.4.4](https://pypi.python.org/pypi/enum/) package by Ben Finney
 
 An enumeration object is created with a sequence of string arguments to the Enum() constructor:
 
