@@ -9,7 +9,7 @@
 # under the terms of the GNU General Public License, version 2 or later
 # or, at your option, the terms of the Python license.
 
-""" Python distutils setup for â€˜enumâ€™ distribution.
+""" Python distutils setup for 'enum' distribution.
     """
 
 import textwrap
